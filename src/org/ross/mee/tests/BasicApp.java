@@ -2,6 +2,7 @@ package org.ross.mee.tests;
 
 import org.ross.mee.App;
 import org.ross.mee.Engine;
+import org.ross.mee.graphics.Shader;
 
 public class BasicApp implements App
 {
@@ -17,7 +18,7 @@ public class BasicApp implements App
 
 	public void Init() 
 	{
-		
+
 	}
 
 	public void Process() 

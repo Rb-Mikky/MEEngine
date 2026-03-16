@@ -1,9 +1,7 @@
 package org.ross.mee.graphics;
 
-
 import static org.lwjgl.opengl.GL11.*;
 import static org.lwjgl.opengl.GL30.*;
-
 import org.joml.Matrix4f;
 
 public class Graphics 
